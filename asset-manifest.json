@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/flip/static/css/main.436aa09a.chunk.css",
+    "main.js": "/flip/static/js/main.47905465.chunk.js",
+    "main.js.map": "/flip/static/js/main.47905465.chunk.js.map",
+    "runtime-main.js": "/flip/static/js/runtime-main.411d7acf.js",
+    "runtime-main.js.map": "/flip/static/js/runtime-main.411d7acf.js.map",
+    "static/css/2.d4f0b396.chunk.css": "/flip/static/css/2.d4f0b396.chunk.css",
+    "static/js/2.1d04727b.chunk.js": "/flip/static/js/2.1d04727b.chunk.js",
+    "static/js/2.1d04727b.chunk.js.map": "/flip/static/js/2.1d04727b.chunk.js.map",
+    "static/js/3.7be4a66d.chunk.js": "/flip/static/js/3.7be4a66d.chunk.js",
+    "static/js/3.7be4a66d.chunk.js.map": "/flip/static/js/3.7be4a66d.chunk.js.map",
+    "index.html": "/flip/index.html",
+    "static/css/2.d4f0b396.chunk.css.map": "/flip/static/css/2.d4f0b396.chunk.css.map",
+    "static/css/main.436aa09a.chunk.css.map": "/flip/static/css/main.436aa09a.chunk.css.map",
+    "static/js/2.1d04727b.chunk.js.LICENSE.txt": "/flip/static/js/2.1d04727b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/flip/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/logo.6ce24c58.svg": "/flip/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.411d7acf.js",
+    "static/css/2.d4f0b396.chunk.css",
+    "static/js/2.1d04727b.chunk.js",
+    "static/css/main.436aa09a.chunk.css",
+    "static/js/main.47905465.chunk.js"
+  ]
+}
